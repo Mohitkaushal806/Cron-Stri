@@ -1,0 +1,15 @@
+.StringDiv{
+    width: 80%;
+}
+.StringDiv p {
+    font-size: 40px;
+    color: white;
+}
+@media (max-width : 500px){
+    .StringDiv{
+        margin-top: 25%;
+    }
+    .StringDiv p{
+        font-size: 20px;
+    }
+}

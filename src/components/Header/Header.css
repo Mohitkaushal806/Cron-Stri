@@ -1,0 +1,17 @@
+.Header{
+    margin-bottom: 5%;
+}
+.Header span{
+    font-size: 50px;
+    color:#ffff80;
+    margin-bottom: 0;
+}
+.Header p{
+    font-size: 30px;
+    color: white;
+}
+@media (max-width: 500px){
+    .Header p{
+        font-size: 20px;
+    }
+}

@@ -1,0 +1,15 @@
+.Next span{
+    text-decoration: underline;
+    color: yellow;
+}
+.Next span:hover{
+    color: blue;
+}
+.Next p{
+    color: white;
+}
+@media (max-width : 500px){
+    .Next{
+        width: 90%;
+    }
+}

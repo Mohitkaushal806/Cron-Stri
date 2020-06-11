@@ -1,0 +1,39 @@
+.Footer{
+    width:60%;
+    margin-top: 5%;
+    margin-bottom: 1%;
+}
+.para1{
+    color: yellow;
+    text-decoration: underline;
+    font-size: 25px;
+}
+.para2{
+    color: white;
+    font-size: 22px;
+}
+.copyright{
+    font-size: 20px;
+    color: white;
+}
+.creatorHigh{
+    font-weight: bolder;
+    color: white;
+    font-size: 20px;
+}
+.creator{
+    font-size: 20px;
+    color: white;
+}
+@media (max-width : 500px){
+    .Footer{
+        width: 95%;
+    }
+    .para1{
+        font-size: 20px;
+    }
+    .para2{
+        font-size: 17px;
+        font-weight: 20;
+    }
+}
